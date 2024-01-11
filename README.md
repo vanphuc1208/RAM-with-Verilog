@@ -14,7 +14,7 @@
 - wr: if the signal is 1, we write data into the memory, otherwise we read data from the memory.
 
 ***Output**
-dout: the data we read from the memory.
+- dout: the data we read from the memory.
 
  ## Waveform:
 ![image](https://github.com/vanphuc1208/RAM-with-Verilog/assets/116254695/2e0b061b-5c22-4c58-9e28-450b8bfe9a11)
