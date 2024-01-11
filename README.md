@@ -16,6 +16,7 @@
 ***Output**
 - dout: the data we read from the memory.
 
+When we write data to the memory, we also write data to file as well. Then when we read data from memory, we compare the output with the data in the file.
  ## Waveform:
 ![image](https://github.com/vanphuc1208/RAM-with-Verilog/assets/116254695/2e0b061b-5c22-4c58-9e28-450b8bfe9a11)
 
