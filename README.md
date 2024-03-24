@@ -4,7 +4,7 @@
 - Goal: design, validate, and synthesize a RAM memory.
 
 ## About the Project layout:
-- top_ram.v: implement the PWM.
+- top_ram.v: implement the RAM.
 - top_ramtb.v: validate the operation of RAM using waveform and file IO(data.txt).
 
 ## About the Operation:
